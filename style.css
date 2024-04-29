@@ -170,9 +170,10 @@ img {
 
 /* Home */
 /*#home {
-    background-image: url(hero.jpg);
+    background-image: url(undraw_Tabs_re_a2bd.png);
     background-position: center;
     background-size: cover;
+    background-attachment: fixed;
 }*/
 
 /* Services */
